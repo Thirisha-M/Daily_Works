@@ -16,3 +16,5 @@ var employee2 = {
     ispermanent: true
 };
 console.log(employee2);
+var a = [true, false, true, false, false];
+console.log(a);

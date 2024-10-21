@@ -29,4 +29,8 @@ let employee2:Employee1={
 }
 console.log(employee2);
 
+var a:boolean[]=[true,false,true,false,false]
+console.log(a);
+
+
 
