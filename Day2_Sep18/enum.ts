@@ -21,6 +21,7 @@ enum Direction1{
 
 }
 console.log(Direction1.South)
+console.log(Direction1.North)
 
 //Example
 
